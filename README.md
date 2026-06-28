@@ -5,10 +5,11 @@ Nombre de integrantes:
 -Johanna Hidalgo Silvestre (Lider) Matricula "25-SSON-2-007",
  -Jesus David Calderon (Analista) "25- SISN-2-024", 
  -Jeury Calcaño Mejía (Programador 1) "25-SISN-2-012"
+ -Brandon Jesús Valdez Abreu (Programador 2) "25-SISN-2-043"
 
 ¿Qué hace el programa?
 
-Este programa tiene como objetivo calcular la cuota mensual de un préstamo. El usuario debe ingresar los datos principales para que el sistema pueda realizar los cálculos correspondientes
+Este programa tiene como objetivo calcular la cuota mensual de un préstamo. El usuario debe ingresar los datos principales para que el sistema pueda realizar los cálculos correspondientes.
 
  ¿Qué datos recibe de entrada?
 
